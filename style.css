@@ -1,0 +1,45 @@
+.custom-nav{
+    background-color: 132f39 !important;
+}
+.custom-nav li a{
+    color: #ffff !important;
+}
+.carousel-item img{
+    height: 520px;
+}
+/* .card img{
+    height: 239px;
+} */
+footer h5 ,.nav-link{
+    color: white !important;
+}
+a{
+    text-decoration: none;
+    color: rgb(6, 31, 100);
+}
+a:hover{
+    text-decoration: underline;
+    color: rgb(240, 61, 61);
+}
+h5{
+    color: rgb(163, 55, 55);
+}
+h6:hover{
+    color: rgb(240, 61, 61);
+
+}
+.fas{
+    color: orange;
+}
+.far{
+    color: orange;
+}
+.rate .fas{
+   font-size: 10px;
+}
+.rate .far{
+    font-size: 10px;
+}
+hr{
+    color: white;
+}
